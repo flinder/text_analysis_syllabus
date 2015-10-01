@@ -6,7 +6,7 @@ from pprint import pprint
 # +++++++++++++
 
 BIBFILE = 'bibliography.bib'
-OUTFILE = 'bibliography.md'
+OUTFILE = 'syllabus.md'
 
 # Open and parse the bib file
 with open(BIBFILE) as bibfile:
