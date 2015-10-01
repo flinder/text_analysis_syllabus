@@ -36,10 +36,20 @@ def writeline(line):
 # Write markdown
 with open(OUTFILE, 'w+') as outfile:
     
+    # Insert title and initial comments
     writeline('# Text Analysis Community Syllabus')
     writeline('This is an automatically generated document please do not edit this document. If you want to add references insert the information into `bibliography.bib`. See the `README.md` for details')
+
+    # Write table of contents
+    writeline('## Contents')
     for cat in items.keys():
-        writeline('##' + cat)
+        line = '[{}]({})'.format(cat, cat)   
+        writeline(line)
+
+    for cat in items.keys():
+        
+        line = '## <a name="{}"></a> {}'.format(cat, cat)
+        writeline(line)
         
         for entry in items[cat]:
             if entry['ENTRYTYPE'] == 'book':

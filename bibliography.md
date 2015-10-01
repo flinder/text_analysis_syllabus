@@ -2,11 +2,17 @@
 
 This is an automatically generated document please do not edit this document. If you want to add references insert the information into `bibliography.bib`. See the `README.md` for details
 
-##Basics
+## Contents
+
+[Basics](Basics)
+
+[Neural Language Models](Neural Language Models)
+
+## <a name="Basics"></a> Basics
 
 Manning, Christopher D and Raghavan, Prabhakar and Schutze, Hinrich and others (2008). *Introduction to information retrieval*
 
-##Neural Language Models
+## <a name="Neural Language Models"></a> Neural Language Models
 
 Bengio, Yoshua and Schwenk, Holger and Sen{\'e}cal, Jean-S{\'e}bastien and Morin, Fr{\'e}deric and Gauvain, Jean-Luc (2006). *Neural probabilistic language models*. Innovations in Machine Learning.
 
