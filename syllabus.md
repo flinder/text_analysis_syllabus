@@ -10,7 +10,7 @@ This is an automatically generated document please do not edit this document. If
 
 ## <a name="Basics"></a> Basics
 
-Manning, Christopher D and Raghavan, Prabhakar and Schutze, Hinrich and others (2008). *Introduction to information retrieval*
+Manning, Christopher D and Raghavan, Prabhakar and Schutze, Hinrich and others (2008). *Introduction to information retrieval*. [Link](http://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
 
 ## <a name="Neural Language Models"></a> Neural Language Models
 

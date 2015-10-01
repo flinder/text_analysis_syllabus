@@ -53,7 +53,7 @@ with open(OUTFILE, 'w+') as outfile:
         
         for entry in items[cat]:
             if entry['ENTRYTYPE'] == 'book':
-                line = "{} ({}). *{}*".format(entry['author'], entry['year'],
+                line = "{} ({}). *{}*.".format(entry['author'], entry['year'],
                                             entry['title'])
             else:
                 try:
@@ -64,4 +64,6 @@ with open(OUTFILE, 'w+') as outfile:
                                                   entry['year'],
                                                   entry['title'],
                                                   journal)
+            if 'link' in entry.keys():
+                line = line + ' [Link]({})'.format(entry['link'])
             writeline(line) 
