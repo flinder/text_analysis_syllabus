@@ -38,7 +38,7 @@ with open(OUTFILE, 'w+') as outfile:
     
     # Insert title and initial comments
     writeline('# Text Analysis Community Syllabus')
-    writeline('This is an automatically generated document please do not edit this document. If you want to add references insert the information into `bibliography.bib`. See the `README.md` for details')
+    writeline('This is an automatically generated document please do not edit this document. If you want to add references insert the information into [`bibliography.bib`](bibliography.bib). See the [readme file](README.md) for details')
 
     # Write table of contents
     writeline('## Contents')
