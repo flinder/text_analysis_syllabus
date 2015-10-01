@@ -6,11 +6,19 @@ This is an automatically generated document please do not edit this document. If
 
 [Basics](Basics)
 
+[Topic Models](Topic Models)
+
 [Neural Language Models](Neural Language Models)
 
 ## <a name="Basics"></a> Basics
 
 Manning, Christopher D and Raghavan, Prabhakar and Schutze, Hinrich and others (2008). *Introduction to information retrieval*. [Link](http://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+
+## <a name="Topic Models"></a> Topic Models
+
+Deng, Ke and Geng, Zhi and Liu, Jun S (2014). *Association pattern discovery via theme dictionary models*. Journal of the Royal Statistical Society: Series B (Statistical Methodology).
+
+Grimmer, Justin (2010). *A Bayesian hierarchical topic model for political texts: Measuring expressed agendas in Senate press releases*. Political Analysis.
 
 ## <a name="Neural Language Models"></a> Neural Language Models
 
