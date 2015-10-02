@@ -19,7 +19,7 @@ If you want to add an article follow these steps:
    entry. Please add only links that contain free (and legal) access to the
    resource.
 4. (Optional) run [`parse_bib.py`](parse_bib.py) to generate the
-   updated [`syllabus.md'](syllabus.md). If you don't do this step your entry will
+   updated [`syllabus.md`](syllabus.md). If you don't do this step your entry will
    only show up in [`syllabus.md`](syllabus.md) after I (or someone else) updated it.
 5. Issue a pull request.
 
