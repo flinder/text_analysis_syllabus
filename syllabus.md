@@ -20,6 +20,8 @@ Deng, Ke and Geng, Zhi and Liu, Jun S (2014). *Association pattern discovery via
 
 Grimmer, Justin (2010). *A Bayesian hierarchical topic model for political texts: Measuring expressed agendas in Senate press releases*. Political Analysis.
 
+Roberts, Margaret E and Stewart, Brandon M and Tingley, Dustin and Lucas, Christopher and Leder-Luis, Jetson and Gadarian, Shana Kushner and Albertson, Bethany and Rand, David G (2014). *Structural Topic Models for Open-Ended Survey Responses*. American Journal of Political Science.
+
 ## <a name="Neural Language Models"></a> Neural Language Models
 
 Bengio, Yoshua and Schwenk, Holger and Sen{\'e}cal, Jean-S{\'e}bastien and Morin, Fr{\'e}deric and Gauvain, Jean-Luc (2006). *Neural probabilistic language models*. Innovations in Machine Learning.
