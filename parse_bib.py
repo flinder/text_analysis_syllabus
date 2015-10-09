@@ -1,5 +1,5 @@
 import bibtexparser
-from pprint import pprint
+from operator import itemgetter
 
 # +++++++++++++
 # CONFIG
@@ -46,12 +46,12 @@ with open(OUTFILE, 'w+') as outfile:
         line = '[{}]({})'.format(cat, cat)   
         writeline(line)
 
-    for cat in items.keys():
+    for cat in sorted(items.keys()):
         
         line = '## <a name="{}"></a> {}'.format(cat, cat)
         writeline(line)
-        
-        for entry in items[cat]:
+        sorted_entries = sorted(items[cat], key=lambda k: k['author'])  
+        for entry in sorted_entries:
             if entry['ENTRYTYPE'] == 'book':
                 line = "{} ({}). *{}*.".format(entry['author'], entry['year'],
                                             entry['title'])
