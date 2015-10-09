@@ -22,6 +22,12 @@ Grimmer, Justin (2010). *A Bayesian hierarchical topic model for political texts
 
 Roberts, Margaret E and Stewart, Brandon M and Tingley, Dustin and Lucas, Christopher and Leder-Luis, Jetson and Gadarian, Shana Kushner and Albertson, Bethany and Rand, David G (2014). *Structural Topic Models for Open-Ended Survey Responses*. American Journal of Political Science.
 
+Ramage, Daniel and Hall, David and Nallapati, Ramesh and Manning, Christopher D (2009). *Labeled LDA: A supervised topic model for credit attribution in multi-labeled corpora*. Proceedings of the 2009 Conference on Empirical Methods in Natural Language Processing: Volume 1-Volume 1.
+
+Blei, David M and Ng, Andrew Y and Jordan, Michael I (2003). *Latent dirichlet allocation*. the Journal of machine Learning research.
+
+Blei, David M (2012). *Probabilistic topic models*. Communications of the ACM.
+
 ## <a name="Neural Language Models"></a> Neural Language Models
 
 Bengio, Yoshua and Schwenk, Holger and Sen{\'e}cal, Jean-S{\'e}bastien and Morin, Fr{\'e}deric and Gauvain, Jean-Luc (2006). *Neural probabilistic language models*. Innovations in Machine Learning.
